@@ -11,8 +11,8 @@ and technical documentation.
 
 ## Hardware Setup
 - Jetson Orin Nano
-- Arduino Uno / Mega
-- Motor Driver (H-Bridge)
+- Arduino Uno
+- Motor Driver (BTS7960 H-Bridge)
 - DC Motors (Left/Right)
 - Stepper Motor (28BYJ48 + ULN2003)
 - Servo SG90
