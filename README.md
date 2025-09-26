@@ -59,11 +59,11 @@ agri-robot-2025/
 │   ├── testCam_Outdoor.py
 │   └── testCam_Index.py
 │
-├── code_model/                      # 模型測試程式
+├── code_model/                      # 模型測試程式碼
 │   ├── testModel_Orin.py
 │   └── testModel_PC.py
 │
-├── code_sensors/                    # 感測器程式
+├── code_sensors/                    # 感測器程式碼
 │   └── testHX711Calibration.ino
 │
 ├── README.md                   # 專案說明文件（本檔案）
