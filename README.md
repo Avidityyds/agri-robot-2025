@@ -37,6 +37,7 @@ agri-robot-2025/
 │   ├── vision/                 # OpenCV 紅線檢測（室內 / 室外）
 │   ├── control/                # Orin⇄Arduino PWM / PID 控制
 │   ├── indoor/                 # 室內任務、HX711 校正、指令測試
+│   ├── model/                  # 模型測試
 │   ├── HARDWARE.md             # 硬體接線總表
 │   ├── COMPETITION_BOOK.pdf    # 秩序冊 PDF
 │   └── images/
