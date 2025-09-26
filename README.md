@@ -6,6 +6,7 @@ and technical documentation.
 
 本專案包含 2025 農業機器人競賽相關程式與文件，涵蓋 **室外紅線循跡、室內任務執行、Orin⇄Arduino 控制整合** 等模組。
 
+- [Project Notes on Notion](https://www.notion.so/26589de4c16a80ebbe8ad6b20c20b73c)
 ---
 
 ## Hardware Setup
