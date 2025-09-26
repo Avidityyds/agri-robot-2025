@@ -17,14 +17,14 @@ and technical documentation.
 - Stepper Motor (28BYJ48 + ULN2003)
 - Servo SG90
 - Weight Sensor HX711
-- USB / CSI Cameras
+- USB Cameras
 - Indicator LEDs (R/G/Y)
 
 ## Software Environment
 - Python 3.9+
 - OpenCV
 - NumPy
-- Ultralytics YOLOv8
+- Ultralytics YOLOv12n
 - pySerial
 - Arduino IDE
 
