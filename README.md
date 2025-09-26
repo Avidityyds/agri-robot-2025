@@ -54,7 +54,8 @@ agri-robot-2025/
 │
 ├── vision/                     # 影像處理程式碼
 │   ├── testCam_Indoor.py
-│   └── testCam_Outdoor.py
+│   ├── testCam_Outdoor.py
+│   └── testCam_Index.py
 │
 ├── model/                      # 模型測試程式
 │   ├── testModel_Orin.py
