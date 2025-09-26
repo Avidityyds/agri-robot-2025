@@ -42,27 +42,27 @@ agri-robot-2025/
 │   └── images/
 │       └── robot.jpg           # 機器人照片
 │
-├── indoor/                     # 室內任務程式碼
+├── code_indoor/                     # 室內任務程式碼
 │   ├── testMission_indoor.py
 │   ├── testMission_command.py
 │   └── testMission_Arduino_Indoor.ino
 │
-├── control/                    # 控制相關程式碼
+├── code_control/                    # 控制相關程式碼
 │   ├── testMotor_Orin.py
 │   ├── testMotor_Arduino_Outdoor.ino
 │   ├── testPID_Indoor.py
 │   └── testPID_Outdoor.py
 │
-├── vision/                     # 影像處理程式碼
+├── code_vision/                     # 影像處理程式碼
 │   ├── testCam_Indoor.py
 │   ├── testCam_Outdoor.py
 │   └── testCam_Index.py
 │
-├── model/                      # 模型測試程式
+├── code_model/                      # 模型測試程式
 │   ├── testModel_Orin.py
 │   └── testModel_PC.py
 │
-├── sensors/                    # 感測器程式
+├── code_sensors/                    # 感測器程式
 │   └── testHX711Calibration.ino
 │
 ├── README.md                   # 專案說明文件（本檔案）
